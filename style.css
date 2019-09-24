@@ -1,0 +1,13 @@
+h1 {
+  font-size: 200%;
+}
+
+label, input{
+height: 25px;
+width: 300px;
+border-radius: 10px;
+}
+
+label, form-example {
+display: table;
+}
